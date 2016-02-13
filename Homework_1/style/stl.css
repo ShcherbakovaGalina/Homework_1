@@ -1,0 +1,43 @@
+html{
+	height: 100%;
+}
+
+body {
+	margin: 0;
+  padding: 0;
+}
+
+.block {
+	min-height: 100%;
+  padding: 20%;
+  padding-top: 0.9%;
+	padding-bottom: 3%;
+}
+
+.content {
+  margin: 0 auto;
+  background-color: white;
+	font-size: 16.4px;
+	line-height: 26px;
+}
+
+.head-line {
+	font-weight: bold;
+	font-size: 23px;
+	text-align: center;
+}
+
+img {
+  margin: 0 auto;
+  padding: 0;
+	display: block;
+}
+
+.foto {
+  text-align: center;
+}
+
+.information {
+  text-align: left;
+  margin-left: 10%;
+}
