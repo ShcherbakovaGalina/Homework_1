@@ -2,23 +2,31 @@ html{
 	height: 100%;
 }
 
-body {
+* {
 	margin: 0;
   padding: 0;
 }
 
 .block {
 	min-height: 100%;
-  padding: 20%;
-  padding-top: 0.9%;
-	padding-bottom: 3%;
+	padding: 20%;
+	padding-top: 0%;
+	padding-bottom: 0%;
+	position: relative;
+	background-color: #eeeeee;
 }
 
 .content {
-  margin: 0 auto;
-  background-color: white;
+	margin: 0 auto;
+	padding: 1%;
+	padding-bottom: 2%;
+	background-color: white;
 	font-size: 16.4px;
 	line-height: 26px;
+}
+
+hr {
+	margin-top: 1%;
 }
 
 .head-line {
