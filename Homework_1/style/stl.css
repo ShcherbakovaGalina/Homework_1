@@ -2,9 +2,13 @@ html{
 	height: 100%;
 }
 
+body {
+	height: 100%;
+}
+
 * {
 	margin: 0;
-  padding: 0;
+	padding: 0;
 }
 
 .block {
@@ -36,16 +40,16 @@ hr {
 }
 
 img {
-  margin: 0 auto;
-  padding: 0;
+	margin: 0 auto;
+	padding: 0;
 	display: block;
 }
 
 .foto {
-  text-align: center;
+	text-align: center;
 }
 
 .information {
-  text-align: left;
-  margin-left: 10%;
+	text-align: left;
+	margin-left: 10%;
 }
