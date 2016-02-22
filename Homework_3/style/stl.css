@@ -73,6 +73,10 @@ a{
 	float: left;
 }
 
+.left-menu a {
+	color: #4f4f4f;
+}
+
 .left-menu li {
 	height: 15%;
 	padding: 6% 0 4% 10%;
@@ -97,6 +101,8 @@ a{
 	font-size: 13.5px;
 	line-height: 1.5;
 	color: #2c2c2c;
+	padding-left: 3%;
+	padding-right: 3%;
 }
 
 .Bicycle {
